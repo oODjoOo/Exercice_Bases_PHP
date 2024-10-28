@@ -10,7 +10,7 @@
 
 <body>
     <h1>Formulaire 2</h1>
-    <form method="POST">
+    <form method="POST" action="">
         <label for="nom">Nom :</label>
         <input type="text" id="nom" name="nom" required><br><br>
 
